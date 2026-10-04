@@ -1,0 +1,6 @@
+{
+  "name": "Mr. Cake — Dharavi, Mumbai",
+  "description": "Modern Bakery, Cake Ordering, Custom Cake Builder & Restaurant in Dharavi, Mumbai with WhatsApp ordering and instant delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
